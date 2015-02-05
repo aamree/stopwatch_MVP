@@ -1,0 +1,13 @@
+C:\Users\Адлет\Documents\Visual Studio 2013\Projects\csharp12\z1_variant2\bin\Debug\z1_variant2.exe.config
+C:\Users\Адлет\Documents\Visual Studio 2013\Projects\csharp12\z1_variant2\bin\Debug\z1_variant2.exe
+C:\Users\Адлет\Documents\Visual Studio 2013\Projects\csharp12\z1_variant2\bin\Debug\z1_variant2.pdb
+C:\Users\Адлет\Documents\Visual Studio 2013\Projects\csharp12\z1_variant2\obj\Debug\z1_variant2.csprojResolveAssemblyReference.cache
+C:\Users\Адлет\Documents\Visual Studio 2013\Projects\csharp12\z1_variant2\obj\Debug\MainWindow.baml
+C:\Users\Адлет\Documents\Visual Studio 2013\Projects\csharp12\z1_variant2\obj\Debug\MainWindow.g.cs
+C:\Users\Адлет\Documents\Visual Studio 2013\Projects\csharp12\z1_variant2\obj\Debug\App.g.cs
+C:\Users\Адлет\Documents\Visual Studio 2013\Projects\csharp12\z1_variant2\obj\Debug\z1_variant2_MarkupCompile.cache
+C:\Users\Адлет\Documents\Visual Studio 2013\Projects\csharp12\z1_variant2\obj\Debug\z1_variant2.g.resources
+C:\Users\Адлет\Documents\Visual Studio 2013\Projects\csharp12\z1_variant2\obj\Debug\z1_variant2.Properties.Resources.resources
+C:\Users\Адлет\Documents\Visual Studio 2013\Projects\csharp12\z1_variant2\obj\Debug\z1_variant2.csproj.GenerateResource.Cache
+C:\Users\Адлет\Documents\Visual Studio 2013\Projects\csharp12\z1_variant2\obj\Debug\z1_variant2.exe
+C:\Users\Адлет\Documents\Visual Studio 2013\Projects\csharp12\z1_variant2\obj\Debug\z1_variant2.pdb
